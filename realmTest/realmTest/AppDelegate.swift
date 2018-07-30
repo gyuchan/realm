@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  realm
+//  realmTest
 //
 //  Created by Gyuchan Jeon on 2018. 7. 30..
 //  Copyright © 2018년 Gyuchan Jeon. All rights reserved.
